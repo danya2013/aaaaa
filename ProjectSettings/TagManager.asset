@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Meteor
   - border
+  - wholemet
   layers:
   - Default
   - TransparentFX
